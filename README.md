@@ -1,5 +1,5 @@
 <div align = "center">
-# 💫 About Me:
+## 💫 About Me:
 Part artist, part engineer, full-stack problem solver.
 
 
